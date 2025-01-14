@@ -1,6 +1,6 @@
 # Modelo de Entidade-Relacionamento para Oficina Mecânica
 
-Este repositório contém um modelo de entidade-relacionamento (MER) projetado para organizar os dados de uma oficina mecânica. O MER pode ser usado como base para implementar um banco de dados em sistemas de gerenciamento de oficinas.
+Este repositório contém um modelo conceitual projetado para organizar os dados de uma oficina mecânica. O MER pode ser usado como base para implementar um banco de dados em sistemas de gerenciamento de oficinas.
 
 ## Objetivo
 O objetivo deste modelo é fornecer uma estrutura clara e eficiente para gerenciar informações como:
